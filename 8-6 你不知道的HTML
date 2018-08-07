@@ -1,0 +1,18 @@
+主题
+1. image实现跨域 
+属性crossorign = anonymous 是否支持跨域
+
+（1）判断网速
+（2）系统性能监控平台
+系统的bug监控
+前端上报数据(打点)
+
+2. css远程攻击漏洞
+
+3. iframe对local Storage扩容
+
+4.语义化的重要性
+
+tips:
+工具 - 图标展示插件 a file icons / vscode-icon
+
